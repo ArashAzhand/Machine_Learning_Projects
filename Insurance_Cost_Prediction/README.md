@@ -20,7 +20,7 @@ In this project, a linear regression model is trained to predict **insurance cos
 
 ## Project Structure
 - `insurance.csv`: Dataset with columns for age, BMI, number of children, and insurance cost.
-- `Insurance_Refression.ipynb`: Jupyter Notebook implementing and analyzing the different tasks in this project.
+- `Insurance_Regression.ipynb`: Jupyter Notebook implementing and analyzing the different tasks in this project.
 - `README.md`: Documentation for the project.
 
 ## Requirements
