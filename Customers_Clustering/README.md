@@ -53,25 +53,22 @@ The dataset contains the following columns:
   - Cluster predictions from PCA-reduced data.
 - Visualized clusters to confirm well-separated groups.
 
+![image](https://github.com/user-attachments/assets/0a1ab51d-d3b4-4a88-a701-7d2a44740685)
+
+
 ## How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/ml-clustering-project.git
    ```
+2. Run the project in a Jupyter Notebook environment.
 
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the project in a Jupyter Notebook environment.
-
-4. Modify the `your_file_path.csv` in the code to point to your dataset.
+3. Modify the `your_file_path.csv` in the code to point to your dataset.
 
 ## Files
 - `clustering_project.ipynb`: Contains all code for preprocessing, clustering, and visualization.
+- `Mall_Customers.csv`: Dataset for this project.
 - `predicts.csv`: Output file with cluster predictions.
-- `requirements.txt`: Dependencies for the project.
 
 ## Dependencies
 - Python 3.7+
@@ -79,10 +76,4 @@ The dataset contains the following columns:
 - scikit-learn
 - matplotlib
 - numpy
-
-## Acknowledgments
-This project was developed as a practical implementation of clustering techniques for a machine learning course.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
